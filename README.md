@@ -1,10 +1,11 @@
 ## Eai Dev!! ✌️👻
 
 # Olá, Me chamo Murilo Carneiro!
-# # Atualmente curso Técnologo em Analise e Desenvolvimento de Sistemas, na Fatec Sorocaba
-- 🌱 Atualmente estou estudando: JAVA, SQL, C#
-- 📌 Estou a procura de Um estágio na área de técnologia, para assim ser possível aplicar meu conhecimentos dentro do mercado de trabalho!!
-- 📞 Como entrar em contato comigo: Murilolitoldo@gmail.com
+ Atualmente estou cursando Analise e Desenvolvimento de Sistemas, na Fatec Sorocaba
+- 🌱 No momento estou estudando: JAVA, SQL
+- 📌 Objetivo: Estou a procura de Um estágio na área de técnologia, para assim ser possível aplicar meu conhecimentos dentro do mercado de trabalho!!
+- 📞 Como entrar em contato comigo?
+      Murilolitoldo@gmail.com
 <div>
 <a href="https://github.com/murilolca">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilolca&layout=compact&langs_count=7&theme=dracula"/>
