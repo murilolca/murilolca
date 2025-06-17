@@ -1,6 +1,6 @@
 # Eai Dev!! ✌️👻
 
-# # Olá, Me chamo Murilo Carneiro!
+## Olá, Me chamo Murilo Carneiro!
  Atualmente estou cursando Analise e Desenvolvimento de Sistemas, na Fatec Sorocaba
 - 🌱 No momento estou estudando: JAVA, SQL
 - 📌 Objetivo: Estou a procura de Um estágio na área de técnologia, para assim ser possível aplicar meu conhecimentos dentro do mercado de trabalho!!
