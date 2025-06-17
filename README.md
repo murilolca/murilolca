@@ -5,7 +5,7 @@
 - 🌱 No momento estou estudando: JAVA, SQL
 - 📌 Objetivo: Estou a procura de Um estágio na área de técnologia, para assim ser possível aplicar meu conhecimentos dentro do mercado de trabalho!!
 - 📞 Como entrar em contato comigo?
-      Murilolitoldo@gmail.com
+- 📧 Murilolitoldo@gmail.com
 <div align ="center">
 <a href="https://github.com/murilolca">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilolca&layout=compact&langs_count=7&theme=dracula"/>
