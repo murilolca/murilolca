@@ -4,7 +4,6 @@
 - 📚 Atualmente estou cursando Analise e Desenvolvimento de Sistemas, na Fatec Sorocaba
 - 🌱 No momento estou estudando: JAVA, SQL
 - 📌 Objetivo: Estou a procura de Um estágio na área de técnologia, para assim ser possível aplicar meu conhecimento dentro do mercado de trabalho!!
-- ✒️ "A tecnologia move o mundo e define o futuro." - Steve Jobs
 - 📞 Como entrar em contato comigo?
 - 📧 Murilolitoldo@gmail.com
 <div align ="center">
